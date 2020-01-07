@@ -16,4 +16,8 @@ This is a simple web project, deployment can be on web server or even local file
 
 ## How To Contribute
 
+Please folk this repository and then issue Pull Request for review.
+
+## Copyright
+
 2020 Git.Training Vision Support Services
