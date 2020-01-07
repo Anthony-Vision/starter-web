@@ -15,3 +15,5 @@ As stated above, the main purpose is to provide simple examplesd for Git trainin
 This is a simple web project, deployment can be on web server or even local filew system.
 
 ## How To Contribute
+
+2020 Git.Training Vision Support Services
