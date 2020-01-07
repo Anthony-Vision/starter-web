@@ -2,6 +2,8 @@
 
 ## Introduction
 
-## Purposr
+## Purpose
+
+##Deployment
 
 ## How To Contribute
