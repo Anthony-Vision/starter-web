@@ -20,4 +20,4 @@ Please folk this repository and then issue Pull Request for review.
 
 ## Copyright
 
-2020 Git.Training Vision Support Services
+2020 Git.Training Vision Support Services. All rights reserved.
